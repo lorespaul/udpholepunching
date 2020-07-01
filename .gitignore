@@ -1,4 +1,6 @@
 .idea/*
+out/*
 */.idea/*
 */target/*
 */*.iml
+*/out/*
